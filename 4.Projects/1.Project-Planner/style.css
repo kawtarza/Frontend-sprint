@@ -1,0 +1,50 @@
+body{
+background: linear-gradient(131deg, rgba(3,148,245,1) 14%, rgba(19,200,44,1) 28%, rgba(220,226,37,1) 49%, rgba(229,29,186,1) 68%, rgba(229,29,85,1) 89%);
+height: 100vh;
+display:flex; 
+flex-direction:column; 
+align-items: center;
+align-content: center;
+text-justify:  center;
+}
+
+.addtask{
+    margin-top: 10px ;
+    
+}
+.subject{
+    margin-top: 10px ;
+  
+}
+ .description{
+    margin-top: 10px ;
+    
+}
+ .date{
+    margin-top: 10px ;
+    
+}
+.radiobnt{
+    margin-top: 10px ;
+}
+
+.btnadd{
+    margin-top: 10px ;
+    color: black;
+    border-radius: 10px;
+    height: 30px;
+}
+.btnedit{
+    margin-top: 10px ;
+}
+
+
+
+div.card {
+	margin: 4%;
+	width: 75vw;
+	padding: 4%;
+	border-radius: 2em;
+	border: 2px solid black;
+	background-color: wheat;
+	} 

@@ -1,0 +1,21 @@
+.grid {
+    width: 400px;
+    height:400px;
+    display: flex;
+    flex-wrap:wrap;
+    padding-left: 15%;
+
+}
+
+.circle {
+    display: inline-block;
+    border-radius: 50%;
+    width: 5px;
+    height: 5px;
+    padding: 45px;
+    border : solid black 2px;
+  }
+
+.mole {
+    background-color: red;
+}
